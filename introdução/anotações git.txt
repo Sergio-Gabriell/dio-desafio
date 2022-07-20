@@ -1,0 +1,16 @@
+- git init - inicar git
+- git add - mover arquivos
+- git add * - move todos os arquivos
+- git commit -m "msg..."
+
+- ls: mostrar as pastas
+(flags) ls -a: mostrar arquivos ocultos nas pastas
+- mkdir: criar as pastas
+- cd - navegar nas pastas
+- git status - mostrar os status dos arquivos
+- mv "arquivo..." ./"pasta..." - mover
+- git remote add origin git https://github.com/Sergio-Gabriell/livrodereceitas.git
+- git push origin master - enviar arquivo do repositorio local ao repositorio remoto
+- origin - apelido dado para o link no github
+- master - branch 
+- git pull - juntar duas versões 
